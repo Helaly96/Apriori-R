@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587915930070.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6BF20AB3",
+    "lastKnownWriteTime" : 2010824473160,
+    "last_content_update" : 1587915930070,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "1467a89f3b1b434fa41c89ee510b1fe0",
+        "name" : "mat",
+        "title" : "mat"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
